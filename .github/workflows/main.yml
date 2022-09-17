@@ -18,4 +18,4 @@ jobs:
         username: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./home/jorge/Dropbox/cic40_doc_com/cic40_doc_proy/biare_quarto/
-        server-dir: ${{ secrets.FTP_DIRECTORY }}
+#       server-dir: ${{ secrets.FTP_DIRECTORY }}
